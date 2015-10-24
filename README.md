@@ -12,6 +12,6 @@ Template.layout.onRendered ->
 
 ```
 Template.layout.onRendered(function() {
-  return $('body').jpreLoader();
+  $('body').jpreLoader();
 });
 ```
