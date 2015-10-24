@@ -2,7 +2,7 @@ Package.describe({
   name: 'hydraorc:jpreloader',
   version: '1.0.1',
   // Brief, one-line summary of the package.
-  summary: 'Preloading screen (aka. splash screen) for your website. Thanks to https://github.com/kennyooi/jpreloader and percolate:velocityjs',
+  summary: 'Preloading screen (aka. splash screen) for your website.',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/hydraorc/meteor-jpreloader.git',
   // By default, Meteor will default to using README.md for documentation.
