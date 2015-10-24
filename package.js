@@ -13,7 +13,7 @@ Package.describe({
 Package.onUse(function(api) {
   api.versionsFrom('1.2.0.2');
   api.use('jquery');
-  api.use('percolate:velocityjs');
+  api.use('percolate:velocityjs@1.2.1_1');
   api.addFiles('lib/jpreloader.js', 'client');
   api.addFiles('lib/jpreloader.css', 'client');
 });
